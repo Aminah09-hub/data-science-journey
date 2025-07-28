@@ -1,17 +1,39 @@
 # 🧠 Data Science Journey
 
 Welcome to my personal data science journey!  
-I’m learning core skills step by step — from Python to machine learning — and uploading my notebooks daily.
+I’m learning core skills step by step — from Python fundamentals to machine learning — and uploading my Jupyter notebooks daily as I grow.
 
-## 📚 Structure
+---
 
-- **Day 1:** Python Basics – variables, data types, operations
-- **Day 2:** Data Types
+## 📚 Learning Progress
 
-## 🚀 Tools Used
-- Python + Jupyter Notebook (Anaconda)
-- GitHub for version control and portfolio
-- Numpy, Pandas, Matplotlib, Scikit-learn *(soon)*
+Each day, I tackle a new topic and organize it by folders:
 
-## 📌 Goal
-To build a complete portfolio of hands-on data science projects, exercises, and analysis — from beginner to job-ready.
+- 📁 **Day 1** – Python Basics: variables, data types, and operations  
+- 📁 **Day 2** – Working with Data Types  
+- 📁 **Day 3 and beyond** – Coming soon!
+
+---
+
+## 🛠 Tools & Libraries
+
+- **Languages/Environments:** Python, Jupyter Notebook (Anaconda)
+- **Version Control:** Git & GitHub
+- **Libraries (Current & Upcoming):**
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `scikit-learn` *(soon)*
+
+---
+
+## 🎯 Goals
+
+- Build a strong foundation in data science
+- Complete hands-on exercises and projects
+- Document everything as part of a public learning portfolio
+- Progress from beginner to job-ready with real-world skills
+
+---
+
+⭐ Follow along or check back often as I update daily!
