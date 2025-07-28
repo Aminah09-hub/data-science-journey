@@ -6,7 +6,7 @@ I’m learning core skills step by step — from Python to machine learning — 
 ## 📚 Structure
 
 - **Day 1:** Python Basics – variables, data types, operations
-- **Day 2:** *(Coming soon)*
+- **Day 2:** Data Types
 
 ## 🚀 Tools Used
 - Python + Jupyter Notebook (Anaconda)
