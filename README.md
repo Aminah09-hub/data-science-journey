@@ -14,8 +14,9 @@ Each day, I tackle a new topic and organize it by folders:
 - 📁 **Day 3** - Strings – creating, slicing, methods, formatting
 - 📁 **Day 4:**- Tuples in Python  
 - 📁 **Day 5:**- Dictionaries in Python
-- 📁 **Day 6:**- Sets 
+- 📁 **Day 6:**- Sets in Python
 - 📁 **Day 7:**- Conditionals (if, else, elif)
+- 📁 **Day 8:**- Loops in Python
 ---
 
 ## 🛠 Tools & Libraries
