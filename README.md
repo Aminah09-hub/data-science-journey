@@ -12,8 +12,9 @@ Each day, I tackle a new topic and organize it by folders:
 - 📁 **Day 1** – Python Basics: variables, data types, and operations  
 - 📁 **Day 2** – Working with Data Types  
 - 📁 **Day 3** - Strings – creating, slicing, methods, formatting
-- 📁 **Day 4:** Tuples in Python  
-- 📁 **Day 5:** Dictionaries in Python
+- 📁 **Day 4:**- Tuples in Python  
+- 📁 **Day 5:**- Dictionaries in Python
+- 📁 **Day 6:**- Sets 
 
 ---
 
