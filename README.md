@@ -17,6 +17,7 @@ Each day, I tackle a new topic and organize it by folders:
 - 📁 **Day 6:**- Sets in Python
 - 📁 **Day 7:**- Conditionals (if, else, elif)
 - 📁 **Day 8:**- Loops in Python
+- 📁 **Day 9:**- Functions in Python
 ---
 
 ## 🛠 Tools & Libraries
