@@ -18,7 +18,8 @@ Each day, I tackle a new topic and organize it by folders:
 - 📁 **Day 7:**- Conditionals (if, else, elif)
 - 📁 **Day 8:**- Loops in Python
 - 📁 **Day 9:**- Functions in Python
-- 📁 **Day 10:**- File handling and file error
+- 📁 **Day 10:**- File handling and error handling
+- 📁 **Day 11:**- NumPy Basics: Arrays, Indexing, Operations
 ---
 
 ## 🛠 Tools & Libraries
