@@ -20,7 +20,8 @@ Each day, I tackle a new topic and organize it by folders:
 - 📁 **Day 9:**- Functions in Python
 - 📁 **Day 10:**- File handling and error handling
 - 📁 **Day 11:**- NumPy Basics: Arrays, Indexing, Operations
-- 📁 **Day 12:**- NumPy Advanced: Broadcasting, Aggregations 
+- 📁 **Day 12:**- NumPy Advanced: Broadcasting, Aggregations
+- 📁 **Day 13:**- Pandas Series and DataFrames 
 
 ---
 
