@@ -45,5 +45,8 @@ Each day, I tackle a new topic and organize it by folders:
 - Progress from beginner to job-ready with real-world skills
 
 ---
+## Notes
+[ch for ch in ... if ...]
+This is called a list comprehension. It builds a new list containing only the characters that passed the filter.
 
 ⭐ Follow along or check back often as I update daily!
