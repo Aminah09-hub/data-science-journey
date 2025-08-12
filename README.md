@@ -6,7 +6,7 @@ I’m a beginner learning core skills step by step — from Python fundamentals 
 ---
 
 ## 👋 About Me
-I'm [Your Name], passionate about turning data into insights. I started this journey [briefly why, e.g., "after a career switch from marketing"] to build real-world skills. Follow along as I tackle daily challenges, and feel free to fork or suggest improvements!
+I'm Aminah Dalhatu, passionate about turning data into insights. I started this journey to build real-world skills. Follow along as I tackle daily challenges, and feel free to fork or suggest improvements!
 
 ---
 
